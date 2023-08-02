@@ -1,3 +1,3 @@
 # project_ams
-<ol><strong>소개</strong></ol>
+##<strong>소개</strong>
 <ul>1.ddd</ul>
