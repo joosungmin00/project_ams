@@ -9,4 +9,4 @@ java
 eclipse
 
 ### <strong>Ⅳ더 자세히 보기</strong>
-노션링크.....
+[노션링크.....](https://www.notion.so/project_ams-4ce8d044c1784cd196d636b57a404579)https://www.notion.so/project_ams-4ce8d044c1784cd196d636b57a404579
