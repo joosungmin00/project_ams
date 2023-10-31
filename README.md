@@ -8,5 +8,3 @@ java
 ### <strong>Ⅲ개발환경</strong>
 eclipse
 
-### <strong>Ⅳ더 자세히 보기</strong>
-[노션링크.....]https://future-grill-222.notion.site/project_ams-4ce8d044c1784cd196d636b57a404579?pvs=4
